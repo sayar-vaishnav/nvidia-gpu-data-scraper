@@ -1,0 +1,76 @@
+gpu_name,nvidia_cores,boost_clock_ghz,base_clock_ghz,memory_bus_bit,max_digital_resolution,slots,max_temp_c,gpu_power_w,recommended_psu_w,power_connectors,vram_gb,memory_type
+rtx 5090,21760,2.41,2.01,512-bit,4K at 480Hz or 8K at 165Hz with DSC,2-Slot,90,575,1000,"4x PCIe 8-pin cables (adapter in box)
+OR
+1x 600 W PCIe Gen 5 cable",32,GDDR7
+rtx 5080,10752,2.62,2.30,256-bit,4K at 480Hz or 8K at 165Hz with DSC,2-Slot,88,360,850,"3x PCIe 8-pin cables (adapter in box)
+OR
+1x 450 W or greater PCIe Gen 5 cable",16,GDDR7
+rtx 5070 ti,8960,2.45,2.30,256-bit,4K at 480Hz or 8K at 165Hz with DSC,Varies by manufacturer,88,300,750,"2x PCIe 8-pin cables (adapter in box)
+OR
+300 W or greater PCIe Gen 5 cable",16,GDDR7
+rtx 5070,6144,2.51,2.33,192-bit,4K at 480Hz or 8K at 165Hz with DSC,2-Slot,85,250,650,"2x PCIe 8-pin cables (adapter in box)
+OR
+300 W or greater PCIe Gen 5 cable",12,GDDR7
+rtx 5060 ti,4608,2.57,2.41,128-bit,4K at 480Hz or 8K at 165Hz with DSC,Varies by manufacturer,87,180,600,"1x PCIe 8-pin cables
+OR
+300 W or greater PCIe Gen 5 cable (adapter in box)",16/8,GDDR7
+rtx 5060,3840,2.50,2.28,128-bit,4K at 480Hz or 8K at 165Hz with DSC,Varies by manufacturer,89,145,550,"1x PCIe 8-pin cables
+OR
+300 W or greater PCIe Gen 5 cable (adapter in box)",8,GDDR7
+rtx 5050,2560,2.57,2.31,128-bit,4K at 480Hz or 8K at 165Hz with DSC,Varies by manufacturer,87,130,550,"1x PCIe 8-pin cables
+OR
+300 W or greater PCIe Gen 5 cable (adapter in box)",8,GDDR6
+rtx 4090,16384,2.52,2.23,384-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",3-Slot,90,450,850,"3x PCIe 8-pin cables (adapter in box) OR
+1x 450 W or greater PCIe Gen 5 cable",24,GDDR6X
+rtx 4080 super,10240,2.55,2.29,256-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",3-Slot,90,320,750,"3x PCIe 8-pin cables (adapter in box) OR
+1x 450 W or greater PCIe Gen 5 cable",16,GDDR6X
+rtx 4080,9728,2.51,2.21,256-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",3-Slot,90,320,750,"3x PCIe 8-pin cables (adapter in box) OR
+1x 450 W or greater PCIe Gen 5 cable",16,GDDR6X
+rtx 4070 ti super,8448,2.61,2.34,256-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",Varies by manufacturer,90,285,700,"2x PCIe 8-pin cables (adapter in box) OR
+300 W or greater PCIe Gen 5 cable",16,GDDR6X
+rtx 4070 ti,7680,2.61,2.31,192-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",Varies by manufacturer,90,285,700,"2x PCIe 8-pin cables (adapter in box) OR
+300 W or greater PCIe Gen 5 cable",12,GDDR6X
+rtx 4070 super,7168,2.48,1.98,192-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",2-Slot,90,220,650,"2x PCIe 8-pin cables (adapter in box) OR 300 W or greater PCIe Gen 5 cable.
+Certain manufacturer models may use 1x PCIe 8-pin cable",12,GDDR6X
+rtx 4070,5888,2.48,1.92,192-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",2-Slot,90,200,650,"2x PCIe 8-pin cables (adapter in box) OR 300 W or greater PCIe Gen 5 cable
+Certain manufacturer models may use 1x PCIe 8-pin cable",12/12,GDDR6
+rtx 4060 ti,4352,2.54,2.31,128-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",2-Slot,90,165 or 160,550,"1x PCIe 8-pin cables (adapter in box) OR
+300 W or greater PCIe Gen 5 cable.
+Certain manufacturer models may use 1x PCIe 8-pin cable",16/8,GDDR6
+rtx 4060,3072,2.46,1.83,128-bit,"4K at 240Hz or 8K at 60Hz with DSC, HDR",2-Slot,90,115,550,"1x PCIe 8-pin cables (adapter in box) OR
+300 W or greater PCIe Gen 5 cable.
+Certain manufacturer models may use 1x PCIe 6-pin cable or 1x PCIe 8-pin cable",8,GDDR6
+rtx 3090 ti,10752,1.86,1.56,384-bit,7680x4320,3-Slot,92,450,850,"3x PCIe 8-pin cables (adapter in box) OR
+450W or greater PCIe Gen 5 cable",24,GDDR6X
+rtx 3090,10496,1.70,1.40,384-bit,7680x4320,3-Slot,93,350,750,"2x PCIe 8-pin
+(adapter to 1x 12-pin included)",24,GDDR6X
+rtx 3080 ti,10240,1.67,1.37,384-bit,7680x4320,2-Slot,93,350,750,"2x PCIe 8-pin
+(adapter to 1x 12-pin included)",12,GDDR6X
+rtx 3080,8960 / 8704,1.71,1.26 / 1.44,384-bit / 320-bit,7680x4320,2-Slot,93,350 / 320,750,"2x PCIe 8-pin
+(adapter to 1x 12-pin included)",12/10,GDDR6X
+rtx 3070 ti,6144,1.77,1.58,256-bit,7680x4320,2-Slot,93,290,750,"2x PCIe 8-pin
+(adapter to 1x 12-pin included)",8,GDDR6X
+rtx 3070,5888,1.73,1.50,256-bit,7680x4320,2-Slot,93,220,650,"1x PCIe 8-pin
+(adapter to 1x 12-pin included)",8,GDDR6
+rtx 3060 ti,4864,1.67,1.41,256-bit,7680x4320,2-Slot,93,200,600,"1x PCIe 8-pin
+(adapter to 1x 12-pin included)",8/8,GDDR6
+rtx 3060,3584,1.78,1.32,192-bit / 128-bit,7680x4320,,93,170,550,1x PCIe 8-pin,12/8,GDDR6
+rtx 3050 (8 gb),2560 (1),1.78 (1),1.55 (1),128-bit,7680x4320,,93,130,550,1x PCIe 8-pin,8,GDDR6
+rtx 3050 (6 gb),2304,1.47,1.04,96-bit,7680x4320,,93,70,300,-,6,GDDR6
+rtx 2080 ti,4352,1.64,1.35,352-bit,7680x4320,2-Slot,89,260,650,2x PCIe 8-pin,11,GDDR6
+rtx 2080 super,3072,1.82,1.65,256-bit,7680x4320,2-Slot,89,250,650,"1x PCIe 6-pin
++ 1x PCIe 8-pin",8,GDDR6
+rtx 2080,2944,1.8,1.52,256-bit,7680x4320,2-Slot,88,225,650,"1x PCIe 6-pin
++ 1x PCIe 8-pin",8,GDDR6
+rtx 2070 super,2560,1.77,1.61,256-bit,7680x4320,2-Slot,88,215,650,"1x PCIe 6-pin
++ 1x PCIe 8-pin",8,GDDR6
+rtx 2070,2304,1.71,1.41,256-bit,7680x4320,2-Slot,89,185,550,1x PCIe 8-pin,8,GDDR6
+rtx 2060 super,2176,1.65,1.47,256-bit,7680x4320,2-Slot,89,175,550,1x PCIe 8-pin,8,GDDR6
+rtx 2060,2176 / 1920,1.65 / 1.68,1.47 / 1.37,192-bit,7680x4320,2-Slot,88,185 / 160,550 / 500,1x PCIe 8-pin,12/6,GDDR6
+gtx 1660 ti,1536,1.77,1.5,192-bit,7680x4320 @ 120Hz,2-Slot,95,120,450,8-pin,6,GDDR6
+gtx 1660 super,1408,1.785,1.53,192-bit,7680x4320 @ 120Hz,2-Slot,93,125,450,8-pin,6,GDDR6
+gtx 1660,1408,1.785,1.53,192-bit,7680x4320 @ 120Hz,2-Slot,95,120,450,8-pin,6,GDDR5
+gtx 1650 super,1280,1.725,1.53,128-bit,7680x4320 @ 120Hz,2-Slot,90,100,350,6-pin,4,GDDR6
+gtx 1650 (g5),896,1.665,1.485,128-bit,7680x4320 @ 120Hz,2-Slot,92,75,300,6-pin,4,GDDR5
+gtx 1650 (g6),896,1.59,1.41,128-bit,7680x4320 @ 120Hz,2-Slot,90-94,75,300,6-pin,4,GDDR6
+gtx 1630,512,1.785,1.74,64-bit,7680x4320 @ 60Hz,2-Slot,90-94,75,300,6-pin,4,GDDR6

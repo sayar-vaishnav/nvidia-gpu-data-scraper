@@ -1,0 +1,72 @@
+specs,"GeForce
+RTX 3090 Ti","GeForce
+RTX 3090","GeForce
+RTX 3080 Ti","GeForce
+RTX 3080","GeForce
+RTX 3070 Ti","GeForce
+RTX 3070","GeForce
+RTX 3060 Ti","GeForce
+RTX 3060","GeForce
+RTX 3050
+(8 GB)","GeForce
+RTX 3050
+(6 GB)"
+GPU Engine Specs:,,,,,,,,,,
+NVIDIA CUDA® Cores,10752,10496,10240,8960 / 8704,6144,5888,4864,3584,2560 (1),2304
+Boost Clock (GHz),1.86,1.70,1.67,1.71,1.77,1.73,1.67,1.78,1.78 (1),1.47
+Base Clock (GHz),1.56,1.40,1.37,1.26 / 1.44,1.58,1.50,1.41,1.32,1.55 (1),1.04
+,,,,,,,,,,
+Memory Specs:,,,,,,,,,,
+Standard Memory Config,24 GB GDDR6X,24 GB GDDR6X,12 GB GDDR6X,12 GB GDDR6X / 10 GB GDDR6X,8 GB GDDR6X,8 GB GDDR6,8 GB GDDR6 / 8 GB GDDR6X,12 GB GDDR6 / 8 GB GDDR6,8 GB GDDR6,6 GB GDDR6
+Memory Interface Width,384-bit,384-bit,384-bit,384-bit / 320-bit,256-bit,256-bit,256-bit,192-bit / 128-bit,128-bit,96-bit
+,,,,,,,,,,
+Technology Support:,,,,,,,,,,
+Ray Tracing Cores,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation
+Tensor Cores,3rd Generation,3rd Generation,3rd Generation,3rd Generation,3rd Generation,3rd Generation,3rd Generation,3rd Generation,3rd Generation,3rd Generation
+NVIDIA Architecture,Ampere,Ampere,Ampere,Ampere,Ampere,Ampere,Ampere,Ampere,Ampere,Ampere
+Microsoft DirectX® 12 Ultimate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA DLSS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Reflex,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Broadcast,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+PCI Express Gen 4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Resizable BAR,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA App,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA FreeStyle,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA ShadowPlay,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Highlights,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA G-SYNC®,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Game Ready Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Studio Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Omniverse,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+RTX Remix,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA GPU Boost™,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA NVLink™ (SLI-Ready),Yes,Yes,-,-,-,-,-,-,-,-
+"Vulkan RT API, OpenGL 4.6",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Encoder (NVENC),7th Generation,7th Generation,7th Generation,7th Generation,7th Generation,7th Generation,7th Generation,7th Generation,7th Generation,7th Generation
+NVIDIA Decoder (NVDEC),5th Generation,5th Generation,5th Generation,5th Generation,5th Generation,5th Generation,5th Generation,5th Generation,5th Generation,5th Generation
+CUDA Capability,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6,8.6
+VR Ready,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-,-
+,,,,,,,,,,
+Display Support:,,,,,,,,,,
+Maximum Digital Resolution (2),7680x4320,7680x4320,7680x4320,7680x4320,7680x4320,7680x4320,7680x4320,7680x4320,7680x4320,7680x4320
+Standard Display Connectors,"HDMI(3), 3x DisplayPort(4)","HDMI(3), 3x DisplayPort(4)","HDMI(3), 3x DisplayPort(4)","HDMI(3), 3x DisplayPort(4)","HDMI(3), 3x DisplayPort(4)","HDMI(3), 3x DisplayPort(4)","HDMI(3), 3x DisplayPort(4)","HDMI(3), 3x DisplayPort(4)","HDMI(3), 2x DisplayPort(4)","HDMI(3), 2x DisplayPort(4)"
+Multi Monitor,4,4,4,4,4,4,4,4,4,4
+HDCP,2.3,2.3,2.3,2.3,2.3,2.3,2.3,2.3,2.3,2.3
+,,,,,,,,,,
+Card Dimensions:,,,,,,,,,,
+Length,"12.3"" (313 mm)","12.3"" (313 mm)","11.2"" (285 mm)","11.2"" (285 mm)","10.5"" (267 mm)","9.5"" (242 mm)","9.5"" (242 mm)",,,
+Width,"5.4"" (138 mm)","5.4"" (138 mm)","4.4"" (112 mm)","4.4"" (112 mm)","4.4"" (112 mm)","4.4"" (112 mm)","4.4"" (112 mm)",,,
+Slot,3-Slot,3-Slot,2-Slot,2-Slot,2-Slot,2-Slot,2-Slot,,,
+,,,,,,,,,,
+Thermal and Power Specs:,,,,,,,,,,
+Maximum GPU Temperature (in C),92,93,93,93,93,93,93,93,93,93
+Graphics Card Power (W),450,350,350,350 / 320,290,220,200,170,130,70
+Required System Power (W) (5),850,750,750,750,750,650,600,550,550,300
+Supplementary Power Connectors,"3x PCIe 8-pin cables (adapter in box) OR
+450W or greater PCIe Gen 5 cable","2x PCIe 8-pin
+(adapter to 1x 12-pin included)","2x PCIe 8-pin
+(adapter to 1x 12-pin included)","2x PCIe 8-pin
+(adapter to 1x 12-pin included)","2x PCIe 8-pin
+(adapter to 1x 12-pin included)","1x PCIe 8-pin
+(adapter to 1x 12-pin included)","1x PCIe 8-pin
+(adapter to 1x 12-pin included)",1x PCIe 8-pin,1x PCIe 8-pin,-

@@ -1,0 +1,58 @@
+specs,"GeForce
+GTX 1660 Ti","GeForce
+GTX 1660 Super","GeForce
+GTX 1660","GeForce
+GTX 1650 Super","GeForce
+GTX 1650 (G5)","GeForce
+GTX 1650 (G6)","GeForce
+GTX 1630"
+GPU Engine Specs:,,,,,,,
+NVIDIA CUDA® Cores,1536,1408,1408,1280,896,896,512
+Boost Clock (MHz),1770,1785,1785,1725,1665,1590,1785
+Base Clock (MHz),1500,1530,1530,1530,1485,1410,1740
+,,,,,,,
+Memory Specs:,,,,,,,
+Standard Memory Config,6GB GDDR6,6GB GDDR6,6GB GDDR5,4GB GDDR6,4GB GDDR5,4GB GDDR6,4GB GDDR6
+Memory Interface Width,192-bit,192-bit,192-bit,128-bit,128-bit,128-bit,64-bit
+,,,,,,,
+Technology Support:,,,,,,,
+Ray Tracing Cores,-,-,-,-,-,-,-
+Tensor Cores,-,-,-,-,-,-,-
+NVIDIA Architecture Name,Turing,Turing,Turing,Turing,Turing,Turing,Turing
+Microsoft DirectX® 12 API,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA DLSS,-,-,-,-,-,-,-
+NVIDIA Reflex,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Broadcast,-,-,-,-,-,-,-
+PCI Express Gen 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Resizable BAR,-,-,-,-,-,-,-
+NVIDIA App,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA FreeStyle,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA ShadowPlay,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Highlights,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA G-SYNC®,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Game Ready Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Studio Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Omniverse,-,-,-,-,-,-,-
+NVIDIA GPU Boost™,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA NVLink™ (SLI-Ready),-,-,-,-,-,-,-
+"Vulkan RT API, OpenGL 4.6",Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Encoder (NVENC),Yes (Turing),Yes (Turing),Yes (Turing),Yes (Turing),Yes (Volta),Yes (Volta or Turing) (1),Yes (Volta)
+NVIDIA Decoder (NVDEC),Yes,Yes,Yes,Yes,Yes,Yes,Yes
+VR Ready,Yes,Yes,Yes,Yes,-,-,-
+,,,,,,,
+Display Support:,,,,,,,
+Maximum Digital Resolution (2),7680x4320 @ 120Hz,7680x4320 @ 120Hz,7680x4320 @ 120Hz,7680x4320 @ 120Hz,7680x4320 @ 120Hz,7680x4320 @ 120Hz,7680x4320 @ 60Hz
+Standard Display Connectors,"DP 1.4a, HDMI 2.0b, DL-DVI-D","DP 1.4a, HDMI 2.0b, DL-DVI-D","DP 1.4a, HDMI 2.0b, DL-DVI-D","DP 1.4a, HDMI 2.0b, DL-DVI-D","HDMI 2.0b, DL-DVI-D","HDMI 2.0b, DL-DVI-D, DP 1.4a","HDMI 2.0b, DL-DVI-D, DP 1.4a"
+Multi Monitor,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+HDCP,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+,,,,,,,
+Card Dimensions:,,,,,,,
+Length,"5.7"" (145 mm)","5.7"" (145 mm)","5.7"" (145 mm)","6.3"" (160 mm)","5.1"" (130 mm)","5.7"" (145 mm)","5.7"" (145 mm)"
+Width,"4.37"" (111 mm)","4.37"" (111 mm)","4.37"" (111 mm)","4.53"" (115 mm)","4.37"" (111 mm)","4.38"" (111 mm)","4.38"" (111 mm)"
+Slot,2-Slot,2-Slot,2-Slot,2-Slot,2-Slot,2-Slot,2-Slot
+,,,,,,,
+Thermal and Power Specs:,,,,,,,
+Maximum GPU Temperature (in C),95,93,95,90,92,90-94,90-94
+Graphics Card Power (W),120,125,120,100,75,75,75
+Minimum System Power (W) (3),450,450,450,350,300,300,300
+Supplementary Power Connectors,8-pin,8-pin,8-pin,6-pin,6-pin,6-pin,6-pin

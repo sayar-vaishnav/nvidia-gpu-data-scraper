@@ -1,0 +1,155 @@
+specs,"GeForce
+RTX 5090","GeForce
+RTX 5080","GeForce
+RTX 5070 Ti","GeForce
+RTX 5070","GeForce
+RTX 5060 Ti","GeForce
+RTX 5060","GeForce
+RTX 5050"
+GPU Engine Specs:,,,,,,,
+NVIDIA CUDA® Cores,21760,10752,8960,6144,4608,3840,2560
+Shader Cores,Blackwell,Blackwell,Blackwell,Blackwell,Blackwell,Blackwell,Blackwell
+Tensor Cores (AI),"5th Generation
+3352 AI TOPS","5th Generation
+1801 AI TOPS","5th Generation
+1406 AI TOPS","5th Generation
+988 AI TOPS","5th Generation
+759 AI TOPS","5th Generation
+614 AI TOPS","5th Generation
+421 AI TOPS"
+Ray Tracing Cores,"4th Generation
+318 TFLOPS","4th Generation
+171 TFLOPS","4th Generation
+133 TFLOPS","4th Generation
+94 TFLOPS","4th Generation
+72 TFLOPS","4th Generation
+58 TFLOPS","4th Generation
+40 TFLOPS"
+Boost Clock (GHz),2.41,2.62,2.45,2.51,2.57,2.50,2.57
+Base Clock (GHz),2.01,2.30,2.30,2.33,2.41,2.28,2.31
+,,,,,,,
+Memory Specs:,,,,,,,
+Standard Memory Config,32 GB GDDR7,16 GB GDDR7,16 GB GDDR7,12 GB GDDR7,16 GB / 8 GB GDDR7,8 GB GDDR7,8 GB GDDR6
+Memory Interface Width,512-bit,256-bit,256-bit,192-bit,128-bit,128-bit,128-bit
+Memory Bandwidth,1792 GB/sec,960 GB/sec,896 GB/sec,672 GB/sec,448 GB/sec,448 GB/sec,320 GB/sec
+,,,,,,,
+Display Support:,,,,,,,
+Maximum Digital Resolution (1),4K at 480Hz or 8K at 165Hz with DSC,4K at 480Hz or 8K at 165Hz with DSC,4K at 480Hz or 8K at 165Hz with DSC,4K at 480Hz or 8K at 165Hz with DSC,4K at 480Hz or 8K at 165Hz with DSC,4K at 480Hz or 8K at 165Hz with DSC,4K at 480Hz or 8K at 165Hz with DSC
+Standard Display Connectors,"3x DisplayPort(2), 1x HDMI(3)","3x DisplayPort(2), 1x HDMI(3)","3x DisplayPort(2), 1x HDMI(3)","3x DisplayPort(2), 1x HDMI(3)","3x DisplayPort(2), 1x HDMI(3)","3x DisplayPort(2), 1x HDMI(3)","3x DisplayPort(2), 1x HDMI(3)"
+Multi Monitor,up to 4(4),up to 4(4),up to 4(4),up to 4(4),up to 4(4),up to 4(4),up to 4(4)
+HDCP,2.3,2.3,2.3,2.3,2.3,2.3,2.3
+,,,,,,,
+Platform:,,,,,,,
+NVIDIA DLSS,"DLSS 4.5
+Super Resolution
+DLAA
+Ray Reconstruction
+Frame Generation
+Multi Frame Generation
+Dynamic Multi Frame Generation","DLSS 4.5
+Super Resolution
+DLAA
+Ray Reconstruction
+Frame Generation
+Multi Frame Generation
+Dynamic Multi Frame Generation","DLSS 4.5
+Super Resolution
+DLAA
+Ray Reconstruction
+Frame Generation
+Multi Frame Generation
+Dynamic Multi Frame Generation","DLSS 4.5
+Super Resolution
+DLAA
+Ray Reconstruction
+Frame Generation
+Multi Frame Generation
+Dynamic Multi Frame Generation","DLSS 4.5
+Super Resolution
+DLAA
+Ray Reconstruction
+Frame Generation
+Multi Frame Generation
+Dynamic Multi Frame Generation","DLSS 4.5
+Super Resolution
+DLAA
+Ray Reconstruction
+Frame Generation
+Multi Frame Generation
+Dynamic Multi Frame Generation","DLSS 4.5
+Super Resolution
+DLAA
+Ray Reconstruction
+Frame Generation
+Multi Frame Generation
+Dynamic Multi Frame Generation"
+NVIDIA Reflex,"Reflex 2
+Low Latency Mode
+Frame Warp
+(Coming Soon)","Reflex 2
+Low Latency Mode
+Frame Warp
+(Coming Soon)","Reflex 2
+Low Latency Mode
+Frame Warp
+(Coming Soon)","Reflex 2
+Low Latency Mode
+Frame Warp
+(Coming Soon)","Reflex 2
+Low Latency Mode
+Frame Warp
+(Coming Soon)","Reflex 2
+Low Latency Mode
+Frame Warp
+(Coming Soon)","Reflex 2
+Low Latency Mode
+Frame Warp
+(Coming Soon)"
+NVIDIA App,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA G-SYNC®,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+RTX Remix,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Broadcast,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Game Ready Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Studio Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+RTX HDR,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+VR Ready,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+,,,,,,,
+Additional Features:,,,,,,,
+PCI Express,Gen 5,Gen 5,Gen 5,Gen 5,Gen 5,Gen 5,Gen 5
+NVIDIA Encoder (NVENC),3x Ninth Generation,2x Ninth Generation,2x Ninth Generation,1x Ninth Generation,1x Ninth Generation,1x Ninth Generation,1x Ninth Generation
+NVIDIA Decoder (NVDEC),2x Sixth Generation,2x Sixth Generation,1x Sixth Generation,1x Sixth Generation,1x Sixth Generation,1x Sixth Generation,1x Sixth Generation
+AV1 Encode,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+AV1 Decode,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+CUDA Capability,12.0,12.0,12.0,12.0,12.0,12.0,12.0
+DX12 Ultimate,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+OpenGL,4.6,4.6,4.6,4.6,4.6,4.6,4.6
+Vulkan,1.4,1.4,1.4,1.4,1.4,1.4,1.4
+,,,,,,,
+Card Dimensions:,,,,,,,
+Length,304 mm,304 mm,Varies by manufacturer,242 mm,Varies by manufacturer,Varies by manufacturer,Varies by manufacturer
+Width,137 mm,137 mm,Varies by manufacturer,112 mm,Varies by manufacturer,Varies by manufacturer,Varies by manufacturer
+Slot,2-Slot,2-Slot,Varies by manufacturer,2-Slot,Varies by manufacturer,Varies by manufacturer,Varies by manufacturer
+SFF-Ready Enthusiast GeForce Card,"Founders Edition Yes
+Varies by manufacturer","Founders Edition Yes
+Varies by manufacturer",Varies by manufacturer,"Founders Edition Yes
+Varies by manufacturer",-,-,-
+,,,,,,,
+Thermal and Power Specs:,,,,,,,
+Maximum GPU Temperature (in C),90,88,88,85,87,89,87
+Total Graphics Power (W),575,360,300,250,180,145,130
+Required System Power (W) (5),1000,850,750,650,600,550,550
+Required Power Connectors,"4x PCIe 8-pin cables (adapter in box)
+OR
+1x 600 W PCIe Gen 5 cable","3x PCIe 8-pin cables (adapter in box)
+OR
+1x 450 W or greater PCIe Gen 5 cable","2x PCIe 8-pin cables (adapter in box)
+OR
+300 W or greater PCIe Gen 5 cable","2x PCIe 8-pin cables (adapter in box)
+OR
+300 W or greater PCIe Gen 5 cable","1x PCIe 8-pin cables
+OR
+300 W or greater PCIe Gen 5 cable (adapter in box)","1x PCIe 8-pin cables
+OR
+300 W or greater PCIe Gen 5 cable (adapter in box)","1x PCIe 8-pin cables
+OR
+300 W or greater PCIe Gen 5 cable (adapter in box)"

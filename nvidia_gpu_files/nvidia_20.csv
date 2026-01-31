@@ -1,0 +1,63 @@
+specs,"GeForce
+RTX 2080 Ti","GeForce
+RTX 2080 Super","GeForce
+RTX 2080","GeForce
+RTX 2070 Super","GeForce
+RTX 2070","GeForce
+RTX 2060 Super","GeForce
+RTX 2060"
+GPU Engine Specs:,,,,,,,
+NVIDIA CUDA® Cores,4352,3072,2944,2560,2304,2176,2176 / 1920
+Boost Clock (GHz),1.64,1.82,1.8,1.77,1.71,1.65,1.65 / 1.68
+Base Clock (GHz),1.35,1.65,1.52,1.61,1.41,1.47,1.47 / 1.37
+,,,,,,,
+Memory Specs:,,,,,,,
+Standard Memory Config,11 GB GDDR6,8 GB GDDR6,8 GB GDDR6,8 GB GDDR6,8 GB GDDR6,8 GB GDDR6,"12 GB GDDR6 /
+6 GB GDDR6"
+Memory Interface Width,352-bit,256-bit,256-bit,256-bit,256-bit,256-bit,192-bit
+,,,,,,,
+Technology Support:,,,,,,,
+Ray Tracing Cores,1st Generation,1st Generation,1st Generation,1st Generation,1st Generation,1st Generation,1st Generation
+Tensor Cores,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation,2nd Generation
+NVIDIA Architecture Name,Turing,Turing,Turing,Turing,Turing,Turing,Turing
+Microsoft DirectX® 12 Ultimate,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA DLSS,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Reflex,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Broadcast,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+PCI Express Gen 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Resizable BAR,-,-,-,-,-,-,-
+NVIDIA App,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA FreeStyle,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA ShadowPlay,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Highlights,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA G-SYNC®,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Game Ready Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Studio Drivers,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Omniverse,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA GPU Boost™,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA NVLink™ (SLI-Ready),Yes,Yes,Yes,Yes,-,-,-
+"Vulkan RT API, OpenGL 4.6",Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NVIDIA Encoder (NVENC),7th Generation,7th Generation,7th Generation,7th Generation,7th Generation,7th Generation,7th Generation
+NVIDIA Decoder (NVDEC),4th Generation,4th Generation,4th Generation,4th Generation,4th Generation,4th Generation,4th Generation
+CUDA Capability,7.5,7.5,7.5,7.5,7.5,7.5,7.5
+VR Ready,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+,,,,,,,
+Display Support:,,,,,,,
+Maximum Digital Resolution (1),7680x4320,7680x4320,7680x4320,7680x4320,7680x4320,7680x4320,7680x4320
+Standard Display Connectors,"DisplayPort(2), HDMI, USB Type-C™","DisplayPort(2), HDMI","DisplayPort(2), HDMI, USB Type-C™","DisplayPort(2), HDMI","DisplayPort(2), HDMI, USB Type-C™, DVI-DL","DisplayPort(2), HDMI, DVI-DL","DisplayPort(2), HDMI, DVI-DL"
+Multi Monitor,4,4,4,4,4,4,4
+HDCP,2.2,2.2,2.2,2.2,2.2,2.2,2.2
+,,,,,,,
+Card Dimensions:,,,,,,,
+Length,"10.5"" (266.74mm)","10.5"" (266.74mm)","10.5"" (266.74mm)","10.5"" (266.74mm)","9.0"" (228.60mm)","9.0"" (228.60mm)","9.0"" (228.60mm)"
+Width,"4.556"" (115.7mm)","4.556"" (115.7mm)","4.556"" (115.7mm)","4.556"" (115.7mm)","4.435"" (112.6mm)","4.435"" (112.6mm)","4.435"" (112.6mm)"
+Slot,2-Slot,2-Slot,2-Slot,2-Slot,2-Slot,2-Slot,2-Slot
+,,,,,,,
+Thermal and Power Specs:,,,,,,,
+Maximum GPU Temperature (in C),89,89,88,88,89,89,88
+Graphics Card Power (W),260,250,225,215,185,175,185 / 160
+Minimum System Power (W) (3),650,650,650,650,550,550,550 / 500
+Supplementary Power Connectors,2x PCIe 8-pin,"1x PCIe 6-pin
++ 1x PCIe 8-pin","1x PCIe 6-pin
++ 1x PCIe 8-pin","1x PCIe 6-pin
++ 1x PCIe 8-pin",1x PCIe 8-pin,1x PCIe 8-pin,1x PCIe 8-pin
